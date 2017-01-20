@@ -1,0 +1,6 @@
+plugin:
+    name: 'mberizzo.mailexport::lang.plugin_name'
+    description: 'mberizzo.mailexport::lang.plugin_description'
+    author: Matias Berizzo
+    icon: icon-table
+    homepage: ''

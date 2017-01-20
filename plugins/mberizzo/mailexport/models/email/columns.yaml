@@ -1,0 +1,9 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    id: mja.mail::lang.models.email.id
+    code: mja.mail::lang.models.email.code
+    subject: mja.mail::lang.models.email.subject
+    body: mja.mail::lang.models.email.body
